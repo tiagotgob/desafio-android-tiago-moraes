@@ -1,7 +1,8 @@
-package br.com.tgob.desafio_android_tiago_moraes
+package br.com.tgob.desafio_android_tiago_moraes.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import br.com.tgob.desafio_android_tiago_moraes.R
 
 class MainActivity : AppCompatActivity() {
 
